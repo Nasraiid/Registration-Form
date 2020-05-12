@@ -99,6 +99,7 @@ select{
    font-style: italic;
    color:rgb(187, 182, 182);
    font-size: 20px;
+   margin-top:0.75em;
    
    
 }
@@ -204,11 +205,11 @@ legend{
       .main-form2 {
         display: flex;
         flex-wrap: wrap;
-        align-items: center;
+        
         
         
       }
-        
+      
       input,
      select {
   flex-basis: 70%;
